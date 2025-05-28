@@ -1,0 +1,12 @@
+{
+  "facebook_pages": {
+    "NET25": "NET25TV",
+    "GMA": "GMANetwork",
+    "ABS-CBN": "ABSCBN"
+  },
+  "verified_domains": [
+    "youtube.com",
+    "youtu.be"
+  ],
+  "verified_urls": []
+}
